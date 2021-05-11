@@ -5,6 +5,7 @@ This repository contains a bachelor thesis (and its source codes) that aims to r
 The repository structure is following:
 ```
 |
++ experiments.csv       the dataframe used for experiments
 + src                   directory with source codes
 + weights               directory with final model's weights 
 + thesis                directory with the thesis and LaTeX code
